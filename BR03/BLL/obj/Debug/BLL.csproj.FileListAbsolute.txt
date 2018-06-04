@@ -1,0 +1,35 @@
+E:\.net projuct\XWwritingfrequency\BLL\bin\Debug\BLL.dll
+E:\.net projuct\XWwritingfrequency\BLL\bin\Debug\BLL.pdb
+E:\.net projuct\XWwritingfrequency\BLL\obj\Debug\BLL.dll
+E:\.net projuct\XWwritingfrequency\BLL\obj\Debug\BLL.pdb
+E:\.net projuct\XWwritingfrequency\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\.net projuct\BR3walkietalkie\BLL\bin\Debug\BLL.dll
+E:\.net projuct\BR3walkietalkie\BLL\bin\Debug\BLL.pdb
+E:\.net projuct\BR3walkietalkie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\.net projuct\BR3walkietalkie\BLL\obj\Debug\BLL.dll
+E:\.net projuct\BR3walkietalkie\BLL\obj\Debug\BLL.pdb
+G:\BR3walkietalkie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\BR3walkietalkie\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\BR3walkietalkie\BLL\obj\Debug\BLL.dll
+G:\BR3walkietalkie\BLL\obj\Debug\BLL.pdb
+G:\BR3walkietalkie\BLL\bin\Debug\BLL.dll
+G:\BR3walkietalkie\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\BR3walkietalkie\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BR3walkietalkie\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\BR3walkietalkie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BR3walkietalkie\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BR3walkietalkie\BLL\obj\Debug\BLL.pdb
+G:\.net projuct\BR3walkietalkie\BLL\bin\Debug\BLL.dll
+G:\.net projuct\BR3walkietalkie\BLL\bin\Debug\BLL.pdb
+G:\.net projuct\BR3walkietalkie\BLL\obj\Debug\BLL.dll
+G:\.net projuct\BR3walkietalkie\BLL\obj\Debug\BLL.pdb
+G:\.net projuct\BR3walkietalkie\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\bin\Debug\BLL.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\bin\Debug\BLL.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\obj\Debug\BLL.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\obj\Debug\BLL.pdb
+G:\.net projuct\BR3澳州版\BR03\BLL\bin\Debug\BLL.dll
+G:\.net projuct\BR3澳州版\BR03\BLL\bin\Debug\BLL.pdb
+G:\.net projuct\BR3澳州版\BR03\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR03\BLL\obj\Debug\BLL.dll
+G:\.net projuct\BR3澳州版\BR03\BLL\obj\Debug\BLL.pdb

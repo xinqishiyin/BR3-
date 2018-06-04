@@ -1,0 +1,15 @@
+G:\.net projuct\BR3walkietalkie\BLL\bin\Release\BLL.dll
+G:\.net projuct\BR3walkietalkie\BLL\bin\Release\BLL.pdb
+G:\.net projuct\BR3walkietalkie\BLL\obj\Release\BLL.dll
+G:\.net projuct\BR3walkietalkie\BLL\obj\Release\BLL.pdb
+G:\.net projuct\BR3walkietalkie\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\bin\Release\BLL.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\bin\Release\BLL.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\obj\Release\BLL.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\obj\Release\BLL.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR03\BLL\bin\Release\BLL.dll
+G:\.net projuct\BR3澳州版\BR03\BLL\bin\Release\BLL.pdb
+G:\.net projuct\BR3澳州版\BR03\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR03\BLL\obj\Release\BLL.dll
+G:\.net projuct\BR3澳州版\BR03\BLL\obj\Release\BLL.pdb

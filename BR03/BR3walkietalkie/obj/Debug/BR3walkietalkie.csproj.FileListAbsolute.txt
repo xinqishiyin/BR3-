@@ -1,0 +1,116 @@
+E:\Android\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csprojResolveAssemblyReference.cache
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.MainForm.resources
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Properties.Resources.resources
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.GenerateResource.Cache
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Loading.resources
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Models.BR3Channel.resources
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.pdb
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.dll
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.dll
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.pdb
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.pdb
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe
+E:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.pdb
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.pdb
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.dll
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.dll
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.pdb
+G:\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.pdb
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csprojResolveAssemblyReference.cache
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Loading.resources
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.MainForm.resources
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Models.BR3Channel.resources
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Properties.Resources.resources
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.GenerateResource.Cache
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.CoreCompileInputs.cache
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe
+G:\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.pdb
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.pdb
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Loading.resources
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.MainForm.resources
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Models.BR3Channel.resources
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.dll
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.dll
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.pdb
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.pdb
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Loading.resources
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.MainForm.resources
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Models.BR3Channel.resources
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Properties.Resources.resources
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.GenerateResource.Cache
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Ports.resources
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.About.resources
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.manifest
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.application
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe.manifest
+G:\.net projuct\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.application
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.manifest
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.application
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.About.resources
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Ports.resources
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe.manifest
+C:\Users\Administrator\Desktop\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.application
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.manifest
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.application
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\BLL.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\bin\Debug\Common.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.About.resources
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Loading.resources
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.MainForm.resources
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Models.BR3Channel.resources
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Ports.resources
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.Properties.Resources.resources
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.GenerateResource.Cache
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe.manifest
+G:\.net projuct\BR3澳州版\BR3walkietalkie\BR3walkietalkie\obj\Debug\BR3walkietalkie.application
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.config
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe.manifest
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BR3walkietalkie.application
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BR3walkietalkie.exe
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BR3walkietalkie.pdb
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BLL.dll
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\Common.dll
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\BLL.pdb
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\bin\Debug\Common.pdb
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.About.resources
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.Loading.resources
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.MainForm.resources
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.Models.BR3Channel.resources
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.Ports.resources
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.Properties.Resources.resources
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.csproj.GenerateResource.Cache
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.exe.manifest
+G:\.net projuct\BR3澳州版\BR03\BR3walkietalkie\obj\Debug\BR3walkietalkie.application

@@ -1,0 +1,15 @@
+G:\.net projuct\BR3walkietalkie\Common\bin\Release\Common.dll
+G:\.net projuct\BR3walkietalkie\Common\bin\Release\Common.pdb
+G:\.net projuct\BR3walkietalkie\Common\obj\Release\Common.dll
+G:\.net projuct\BR3walkietalkie\Common\obj\Release\Common.pdb
+G:\.net projuct\BR3walkietalkie\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR3walkietalkie\Common\bin\Release\Common.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\Common\bin\Release\Common.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\Common\obj\Release\Common.dll
+G:\.net projuct\BR3澳州版\BR3walkietalkie\Common\obj\Release\Common.pdb
+G:\.net projuct\BR3澳州版\BR3walkietalkie\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR03\Common\bin\Release\Common.dll
+G:\.net projuct\BR3澳州版\BR03\Common\bin\Release\Common.pdb
+G:\.net projuct\BR3澳州版\BR03\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+G:\.net projuct\BR3澳州版\BR03\Common\obj\Release\Common.dll
+G:\.net projuct\BR3澳州版\BR03\Common\obj\Release\Common.pdb
